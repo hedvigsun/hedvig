@@ -9,7 +9,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-## Latest updates: 
-<p style="text-decoration:underline;"><a href="/hedvigsun/people/">New people added!</a></p>
-
-<p style="text-decoration:underline;"><a href="/hedvigsun/publications/">New publications!</a></p>
+## Welcome to my personal site!
+Looking for PerinatalLab website? 
+<p style="text-decoration:underline;"><a href="/perinatallab/">PerinatalLab website</a></p>
